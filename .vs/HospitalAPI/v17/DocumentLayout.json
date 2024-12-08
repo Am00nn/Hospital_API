@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|c:\\users\\lenovo\\source\\repos\\hospitalapi\\hospitalapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|c:\\users\\lenovo\\source\\repos\\hospitalapi\\hospitalapi\\models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|c:\\users\\lenovo\\source\\repos\\hospitalapi\\hospitalapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|c:\\users\\lenovo\\source\\repos\\hospitalapi\\hospitalapi\\hospitalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\hospitalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|c:\\users\\lenovo\\source\\repos\\hospitalapi\\hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA65D268-D272-4AAB-B677-093FA86CC96C}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalAPI\\Models\\Patient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:19:34.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clinic.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\Models\\Clinic.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Models\\Clinic.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\Models\\Clinic.cs",
+              "RelativeToolTip": "HospitalAPI\\Models\\Clinic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:19:15.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\Models\\Booking.cs",
+              "RelativeToolTip": "HospitalAPI\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:18:55.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalAPI",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\HospitalAPI.csproj",
+              "RelativeDocumentMoniker": "HospitalAPI\\HospitalAPI.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\HospitalAPI.csproj",
+              "RelativeToolTip": "HospitalAPI\\HospitalAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T09:17:14.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\HospitalAPI\\HospitalAPI\\Program.cs",
+              "RelativeToolTip": "HospitalAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:09:09.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
