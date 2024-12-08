@@ -6,6 +6,9 @@ namespace HospitalAPI.Services
     public class PatientService : IPatientService
     {
         private readonly IPatientRepository _patientRepository;
+
+
+
         private readonly IBookingRepository _bookingRepository;
 
         public PatientService(IPatientRepository patientRepository, IBookingRepository bookingRepository)
@@ -26,7 +29,10 @@ namespace HospitalAPI.Services
         public IEnumerable<Booking> GetPatientAppointments(int patientId)
         {
 
+
             return _bookingRepository.ViewAppointmentByPatient(patientId);
+
+
         }
     }
 }
